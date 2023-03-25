@@ -700,24 +700,39 @@ To decode the letter, the players would need to use the code to replace each let
 --- 
 
 HA:
-> 
+> Remember the BBEG above? Give him a 4 paragraph monologue exposing his motive for murdering Pearson and his plan to annihilate the city of Waterdeep using the profound power of the artifact he will soon possess.
 
 ---
 
 GPT:
 
+The BBEG stands before the players, a sly grin on his face. "You have been persistent, I'll give you that. But it's time for you to know the truth. The artifact that Pearson entrusted to me was not for safekeeping, as I led him to believe. It is a powerful weapon, capable of decimating entire cities. And I plan to use it to destroy Waterdeep."
+
+"You see, I have always hated this city. Its people, its politics, its wealth. I was born in the slums of the Dock Ward, and I've been forced to watch as the rich and powerful of this city live in luxury while the rest of us suffer. But soon, that will all change. With the artifact in my possession, I will level the city to the ground, and rebuild it in my own image."
+
+"I admit, Pearson's murder was a necessary sacrifice. He was the only one who knew of the artifact's true power, and I could not risk him exposing my plan. But now, with you all here, I see an opportunity. You are powerful adventurers, and I could use your skills to help me in my cause. Join me, and together we can take down the corrupt rulers of this city and build a new Waterdeep."
+
+"But if you refuse, well, I'm afraid I'll have to eliminate you as well. You know too much. And trust me, I have no qualms about shedding more blood to achieve my goals. The choice is yours, adventurers. Join me, or die."
+
 --- 
 
 HA:
-> 
-
+> Using the following substitution cypher values
+A=Z,B=Y,C=X,D=W,E=V,F=U,G=T,H=S,I=R,J=Q,K=P,L=O,M=N,N=M,O=L,P=K,Q=J,R=I,S=H,T=G,U=F,V=E,W=D,X=C,Y=B,Z=A encode the following message: never gonna give you up never gonna let you down never gonna run around and desert you
 ---
 
 GPT:
 
+mvivih tlmlz tivvg blf li gsv klgsv lmzo blf wlm'g wvovz blf yvorvmw blf. mvivih tlmlz tivvg blf li gsv klgsv lmzo blf wlm'g wvovz blf orevfhg and wvoolg blf.
+
 --- 
 
-HA:
+HA: 
+Aside: Above is not right. Have tried numerous times. Moving on.
+
+--- 
+
+HA: 
 > 
 
 ---
