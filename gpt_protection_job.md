@@ -733,11 +733,25 @@ Aside: Above is not right. Have tried numerous times. Moving on.
 --- 
 
 HA: 
-> 
+> What type of business might Howard Pearson be involved with in Waterdeep?
 
 ---
 
 GPT:
+
+Howard Pearson could be involved in a variety of businesses in Waterdeep. Some possible options could include:
+
+Shipping: Given Pearson's background as a dock worker, he may have worked his way up to owning his own shipping company or being a partner in a larger one.
+
+Warehousing: Pearson may have owned or managed a warehouse that stored goods being transported through Waterdeep.
+
+Trade: Pearson could have been a trader, buying and selling goods from different parts of the world.
+
+Inn or Tavern: Perhaps Pearson was a successful innkeeper or tavern owner, providing food, drink, and lodging to travelers passing through Waterdeep.
+
+Import/export: If Pearson had connections in other cities or countries, he may have been involved in importing and exporting goods.
+
+Ultimately, the type of business Pearson was involved in can be tailored to fit the needs of the story and the campaign.
 
 --- 
 
