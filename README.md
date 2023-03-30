@@ -1,4 +1,10 @@
-# PTM: Protection Turned Murder
+# The Protection Job
+
+## Players
+
+* [Act 0: The Job Offer](./act0.md)
+
+## Dugeon Master
 
 * [Notes](./notes.md)
 * [Ideation with ChatGPT](./gpt_protection_job.md)

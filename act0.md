@@ -10,6 +10,10 @@ The players are hired by a private detective named Vincent Trench to protect a V
 
 Vincent and Howard Pearson go back a long way with past dockwork. Vincent mentored and trained Howard Pearson and feels like "he owes one" to his former protege.
 
+## Why does Howard need protection?
+
+As a dockworker, Howard expertise was customs and brokerage. It's believed that someone's pressuring him to smuggle goods.
+
 ## Deeper Motivations
 
 Vincent knows why Howard Pearson is really in trouble. 
@@ -19,9 +23,10 @@ Vincent knows why Howard Pearson is really in trouble.
 * Howard went to the employer and demanded in on the action.
 * Employer tried to have Howard killed and he barely fled with his life, but not before taking some of the smuggled cargo for himself.
 * Vincent and the rest of the crew was let go and replaced with a new crew.
-* Vincent heard rumors of the cargo Howard Pearson stole and doesn't believe Howard could have sold it on his own.
+* Vincent heard rumors of the cargo Howard Pearson stole and doesn't believe Howard did not have the connections to sell it on his own.
 * Vincent believes this artifact to be in the posession of Howard Pearson.
 * Vincent knows how to fence the item in question. He already has a buyer lined up.
+
 
 # From Troll Skull Manor to Pearson's Inn
 

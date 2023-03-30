@@ -71,6 +71,12 @@ You approach the bartender and ask if he's seen anyone fitting the description o
 "I think I remember someone like that. Skittish, scared-looking fella, kept to himself," he says slowly. "Was asking if a guy named Vincent was here yet."
 ```
 
+## CONSEQUENCE: Further delays and distraction led the City Watch to investigate. 
+
+```
+Door has a magic seal on it that cannot be broken. You will be unable to enter the room that way.
+```
+
 ### On successful Charisma Check:
 
 "I didn't catch his name, but he was carrying a small wrapped package with him. Seemed pretty intent on keeping it hidden."
