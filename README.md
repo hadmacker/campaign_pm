@@ -6,6 +6,7 @@
 
 ## Dugeon Master
 
+* [Plot Summary](./plot.md)
 * [Notes](./notes.md)
 * [Ideation with ChatGPT](./gpt_protection_job.md)
 * Assets

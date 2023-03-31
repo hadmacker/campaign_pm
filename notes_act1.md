@@ -331,3 +331,138 @@ HA:
 ---
 
 GPT: Valerian's base movement speed is 30 feet per round, which is standard for most player characters in D&D 5th edition. However, if he uses his "Cunning Action" to take the "Dash" action as a bonus action, his movement speed would effectively double to 60 feet per round.
+
+---
+
+HA: 
+> What is "Cunning Action" and what is the page number for it?
+
+--- 
+
+GPT: "Cunning Action" is a class feature of the rogue in D&D 5th edition that allows the rogue to use their bonus action to take certain actions during combat. The actions that can be taken with "Cunning Action" include "Dash", "Disengage", or "Hide".
+
+Specifically, when Valerian uses "Cunning Action", he can take one of those three actions as a bonus action on his turn, in addition to his regular action and movement. This allows him to be very mobile and evasive in combat, as he can move more quickly, disengage from enemies without provoking opportunity attacks, or hide from enemies to gain the advantage in combat.
+
+The page number for "Cunning Action" in the Player's Handbook is 96.
+
+--- 
+
+HA:
+> The party speaks to a shady half-elf at the bar. The half-elf tricks the group into a back ally to be mugged
+
+---
+
+GPT: As the party speaks to the shady half-elf at the bar, they start to feel uneasy. His shifty eyes and nervous fidgeting make them suspicious. However, before they can back away, the half-elf quickly suggests they follow him to a secluded alleyway just around the corner. The party, eager for information, follows him into the dark and narrow passage.
+
+As they walk deeper into the alley, they notice a group of menacing figures approaching from the shadows. The half-elf quickly turns around, drawing a hidden blade and demanding that the party hands over all their valuables. It becomes clear that the party has been lured into a trap, and the half-elf was in on it all along.
+
+The thugs, armed with clubs and rusty knives, close in on the party, ready to pounce at any moment. The party must now fight for their lives against their attackers.
+
+--- 
+
+HA:
+> Give me a stat block for a level 14 half elf fighter
+
+---
+
+GPT: Sure! Here's a stat block for a level 14 half-elf fighter in D&D 5E:
+
+Name: Lyrian Nightshade
+
+Race: Half-Elf
+
+Class: Fighter (Champion)
+
+Level: 14
+
+Ability Scores:
+
+Strength: 18 (+4)
+Dexterity: 16 (+3)
+Constitution: 16 (+3)
+Intelligence: 10 (+0)
+Wisdom: 12 (+1)
+Charisma: 14 (+2)
+Hit Points: 144
+
+Armor Class: 20
+
+Initiative: +3
+
+Speed: 30 ft.
+
+Proficiency Bonus: +5
+
+Skills: Acrobatics, Athletics, Perception, Survival
+
+Equipment:
+
+Longsword
+Shield
+Chain Mail
+3 Javelins
+Adventurer's Pack
+Potion of Greater Healing x2
+Features and Traits:
+
+Second Wind: As a bonus action, Lyrian can regain hit points equal to 1d10 + 14.
+Action Surge: Once per short rest, Lyrian can take an additional action on their turn.
+Champion's Improved Critical: Lyrian's weapon attacks score a critical hit on a roll of 19 or 20.
+Remarkable Athlete: Lyrian adds +5 to any Strength, Dexterity, or Constitution check they make that doesn't already use their proficiency bonus.
+Extra Attack: Lyrian can attack twice, instead of once, when taking the Attack action on their turn.
+I hope this helps! Let me know if you have any other questions.
+
+--- 
+
+HA:
+> 
+
+---
+
+GPT:
+
+--- 
+
+HA:
+> 
+
+---
+
+GPT:
+
+
+--- 
+
+HA:
+> 
+
+---
+
+GPT:
+
+--- 
+
+HA:
+> 
+
+---
+
+GPT:
+
+--- 
+
+HA:
+> 
+
+---
+
+GPT:
+
+--- 
+
+HA:
+> 
+
+---
+
+GPT:

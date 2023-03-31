@@ -756,38 +756,109 @@ Ultimately, the type of business Pearson was involved in can be tailored to fit 
 --- 
 
 HA:
-> 
+> in D&D 5E what type of spellcaster could use divination to identify a murderer, and of greater importance, the criminal mastermind that ordered the killing?
 
 ---
 
-GPT:
+GPT: In D&D 5E, a wizard would be a spellcaster that could use divination spells to identify a murderer and the criminal mastermind that ordered the killing. Wizards have access to spells such as "Commune," "Divination," "Legend Lore," "Scrying," and "Contact Other Plane" that can be used to gather information about a person or event. These spells can be very powerful in the hands of an experienced wizard and can be used to uncover the truth behind a crime. Additionally, wizards have the ability to use their Arcane Recovery feature to regain expended spell slots, allowing them to cast divination spells more frequently.
 
 --- 
 
 HA:
-> 
+> Provide detailed descriptions for each of the spells above, as well as the page numbers for each.
 
 ---
 
-GPT:
+GPT: Sure, here are brief descriptions of each of the divination spells you asked for, along with their page numbers in the Player's Handbook:
+
+Commune (p. 223): This spell allows the caster to contact a divine entity and ask up to three yes-or-no questions. The entity may answer in a cryptic manner, and may not know the answer to every question.
+
+Divination (p. 234): This spell allows the caster to ask a single question about a specific goal, event, or activity that will occur within the next seven days. The spell provides a truthful answer in the form of a brief phrase, such as "the king's daughter will be assassinated" or "the dragon's hoard is guarded by a powerful spell."
+
+Legend Lore (p. 256): This spell allows the caster to gather information about a person, place, or object that is steeped in legend or myth. The caster must touch a piece of the subject and then concentrate for 10 minutes, during which time they receive information about the subject's history, capabilities, and any associated magic or artifacts.
+
+Scrying (p. 273): This spell allows the caster to view a specific creature or location, as if they were physically present there. The caster must have some personal connection to the subject, such as an object belonging to them or a physical likeness, and must concentrate for 10 minutes to establish the connection. The spell's duration depends on the caster's level.
+
+Contact Other Plane (p. 226): This spell allows the caster to contact an extraplanar intelligence, such as a demon or a deity, and ask up to five questions. The intelligence may answer in a cryptic or misleading manner, and may demand a favor or payment in return.
+
+These spells can be very useful for gathering information and uncovering secrets, but they may also have unexpected consequences or limitations. As with any magic in D&D, the results of casting these spells will depend on the circumstances and the discretion of the DM.
 
 --- 
 
 HA:
-> 
+> Give me a D&D 5E Level 20 wizard statblock including armor class, initiative score, and attack modifier, as well as equipment and abilities with brief descriptions and page numbers.
+
+The wizard should be an expert in divination spells.
 
 ---
 
-GPT:
+GPT: Wizard, Level 20
+
+Armor Class: 15 (mage armor, Dexterity modifier)
+
+Hit Points: 120 (20d6 + 40)
+
+Speed: 30 ft.
+
+Initiative: +6
+
+Abilities:
+
+Spellcasting: The wizard is a 20th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 19, +11 to hit with spell attacks). The wizard has the following spells prepared from the wizard spell list:
+
+Cantrips: mage hand, message, prestidigitation, shocking grasp
+
+1st Level: detect magic, identify, mage armor, magic missile, shield
+
+2nd Level: detect thoughts, invisibility, knock, locate object
+
+3rd Level: clairvoyance, dispel magic, haste, magic circle
+
+4th Level: arcane eye, dimension door, greater invisibility, stone shape
+
+5th Level: contact other plane, legend lore, scrying, wall of force
+
+6th Level: find the path, true seeing, contingency, globe of invulnerability
+
+7th Level: etherealness, forcecage, teleport, vision
+
+8th Level: maze, mind blank, power word stun, time stop
+
+9th Level: foresight, gate, power word kill, wish
+
+Divination Savant: The wizard's expertise in divination magic allows it to cast divination spells of 4th level or lower at their lowest possible level without expending a spell slot.
+
+Portent: The wizard can replace any attack roll, saving throw, or ability check made by itself or a creature that it can see with one of the two d20 rolls it makes as part of the Portent feature (PHB p. 116).
+
+Arcane Recovery: Once per day, the wizard can regain up to half of its total expended spell slots by taking a short rest (PHB p. 115).
+
+Equipment:
+
+Wand of the War Mage +3: This wand adds a +3 bonus to attack and damage rolls made with spells cast through it. The wand also allows the wizard to ignore half cover and three-quarters cover when making spell attacks. (DMG p. 212)
+
+Robe of the Archmagi: This elegant robe is made from finest silk and embroidered with gold thread. It grants the wizard a +2 bonus to Armor Class, saving throws, and spell attack rolls. (DMG p. 194)
+
+Ring of Spell Storing: This ring allows the wizard to store up to 5 levels of spells within it. These spells can then be cast by anyone wearing the ring as if they had prepared the spells themselves. (DMG p. 192)
+
+Book of Ancient Secrets: This book contains a vast array of information about magic rituals. It allows the wizard to learn two rituals from any class's spell list (PHB p. 169).
+
+This is just a sample statblock, and you can adjust it based on your preferences and campaign needs.
 
 --- 
 
 HA:
-> 
+> include ability scores for the wizard above
 
 ---
 
-GPT:
+GPT: Here are the ability scores for the Level 20 wizard with expertise in divination spells:
+
+Strength: 8 (-1)
+Dexterity: 14 (+2)
+Constitution: 12 (+1)
+Intelligence: 20 (+5)
+Wisdom: 18 (+4)
+Charisma: 10 (+0)
 
 --- 
 

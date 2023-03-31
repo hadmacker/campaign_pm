@@ -51,6 +51,9 @@ The four thugs are rough-looking and menacing, each one towering over the victim
 
 #### DECISION: Save the Victim, Fight The Thugs
 
+[Thug](./mob_Thug.md)
+* Remember, one thug has a rusty knife, another a length of chain. Two other thugs will have maces.
+
 ```
 As the thugs flee down the alleyway, your party springs into action. You rush to the aid of the victim, who is lying on the ground, dazed and disoriented. You help them to their feet and assess their injuries. Thankfully, they're mostly unharmed, aside from a few bruises and scrapes.
 

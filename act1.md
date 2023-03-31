@@ -16,6 +16,28 @@ As you sit and enjoy the local brew, you can't help but notice the odd character
 Despite the seedy atmosphere, you can't help but feel a sense of camaraderie with your party. You've been through thick and thin together, and you know that whatever dangers lie ahead, you can count on each other to get through it. As the night wears on and the tavern grows louder, you all share a laugh and raise your mugs in a toast to the adventures that lie ahead.
 ```
 
+# DECISION: Speak to half-elf
+
+```
+As the party speaks to the shady half-elf at the bar, "Yeah, I know him. He was looking for you. He went around out around the side for a piss. Too much to drink you know. Follow me". The half-elf quickly suggests they follow him to a secluded alleyway just around the corner. 
+```
+
+Do you follow him?
+
+# DECISION: Follow the half-elf (into a trap!)
+
+```
+The party, eager to meet their contact, follows him into the dark and narrow passage.
+
+As they walk deeper into the alley, they notice a group of menacing figures leaving the tavern with them cutting off their escape. The half-elf quickly turns around, drawing a hidden blade and demanding that the party hands over all their valuables. It becomes clear that the party has been lured into a trap, and the half-elf was in on it all along.
+
+The thugs, armed with clubs and rusty knives, close in on the party, ready to pounce at any moment. The party must now fight for their lives against their attackers.
+```
+
+[Half-Elf Fighter](./mob_he_fighter.md)
+[Orc Brute](./mob_brute.md)
+[Rogue](./mob_rogue.md)
+
 # The contact doesn't show
 
 ```
@@ -29,7 +51,6 @@ Should you wait a little longer, or give up and try to track down your contact o
 ## CONSEQUENCE: Delayed due to fighting thugs.
 
 Nothing happens, party does not witness assassin leaving.
-
 
 ## DECISION: Wait? Get kicked out.
 
@@ -74,7 +95,7 @@ You approach the bartender and ask if he's seen anyone fitting the description o
 ## CONSEQUENCE: Further delays and distraction led the City Watch to investigate. 
 
 ```
-Door has a magic seal on it that cannot be broken. You will be unable to enter the room that way.
+Door has a magic seal on it that cannot be broken. You will be unable to enter the room that way. But maybe through the 2nd storey window?
 ```
 
 ### On successful Charisma Check:
@@ -96,8 +117,22 @@ As they approach their contact's door, they feel a breeze, and notice that the d
 As the players cautiously push open the door to the VIP's room, they immediately sense that something is amiss. The air is thick with the coppery scent of blood, and a chilling breeze blows through the room, stirring the curtains and sending papers fluttering across the floor.
 
 The room itself is in disarray, with furniture overturned and items scattered haphazardly across the floor. Blood spatters the walls and floor, and in the center of the room lies a body, face down, sprawled out in a pool of crimson.
+```
 
+If the victim hasn't been removed by the City Watch...
+
+```
 The sight is enough to make even the most seasoned adventurer's stomach turn. Even from the bad angle, it's clear that the throat has been slashed, and the wound is still fresh and glistening with blood. The killer was both ruthless and skilled, able to strike swiftly and lethally.
 
 As the players cautiously approach the body, they notice a few other details that might prove useful in their investigation. The room has been ransacked, and a few scattered papers have spilled out onto the floor. Some papers are stuck under the victim and are quickly being enveloped in blood.
+```
+
+If the victim has been removed by the City Watch:
+
+* A pair of watchmen are stationed around the building. You will need to sneak past them to investigate further.
+
+```
+The sight is enough to make even the most seasoned adventurer's stomach turn. Even from the bad angle, it's clear that the victim was bled out. The floor is covered in blood. Some spots are still wet. There's no doubt among the party that the victim was not coming back to this plane of existence.
+
+As the players cautiously approach the crime scene, they notice a few other details that might prove useful in their investigation. The room has been ransacked, and a few scattered papers have spilled out onto the floor. One paper appears out of place, and appears to be floating on top of the puddle of blood.
 ```
