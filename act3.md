@@ -58,11 +58,13 @@ Insight or Passive Perception:
 
 Attempting to light this torch results in a blue flame that doesn't appear to offer any light to the room. 
 
-But this is't what the holder of the torch: As you hold this torch, you observe that all magical items on party members are glowing brightly. You also notice that the chest in the middle of the room glows brightest of all.
+But this is't what the holder of the torch sees: As you hold this torch, you observe that all magical items on party members are glowing brightly. You also notice that the chest in the middle of the room glows brightest of all.
+
+This torch is like the spell Detect Magic. The holder can see magical items glow within 30 feet.
 
 The ghosts watch the party members as they unlock both the chest and the room with this puzzle, curious about what they will do next.
 
-Inside the chest is... TODO.
+Inside the chest is a large assortment of fine gold jewelry inlaid with flawless gemstones.
 
 The ghosts crowd around and move through the individual(s) inspecting the contents of the chest. As party members hold and examine objects, the ghosts pretend to do the same. As (player) holds a bracelet, a ghost tries to put it on, and wraps their hands around and through the player.
 
@@ -83,19 +85,25 @@ As the party enters the room, they see a man sitting in a leather easy chair beh
 
 [The Fence](./mob_thefence.md)
 
-# I kow of this Pearson. He had asked me to broker a deal for an artifact of immense danger and power, but was unable to provide evidence he had it.
+# Conversation with The Fence
 
-# I'm not surprised he was murdered. My impression of him was, as we say, "Swimming with the Sharks." 
+## I kow of this Pearson. He had asked me to broker a deal for an artifact of immense danger and power, but was unable to provide evidence he had it.
 
-# I was not involved with Pearson's murder.
+## I'm not surprised he was murdered. My impression of him was, as we say, "Swimming with the Sharks." 
 
-# Would you know anything about said artifact? It would be a shame if it was lost to... uncivilized hands.
+## I was not involved with Pearson's murder.
 
-# I am both everyone's best friend and everyone's worst enemy. There are countless rooms in this mansion that you wish to never see and might never escape if you do. And I could open every one of their doors directly here with the simplest incantation.
+## Would you know anything about said artifact? It would be a shame if it was lost to... uncivilized hands.
 
-# Artifact has been shielded from divination magic and magical interference. This is one of the tricks allowing me to reside here uninterrupted all these years.
+## I am both everyone's best friend and everyone's worst enemy. There are countless rooms in this mansion that you wish to never see and might never escape if you do. And I could open every one of their doors directly here with the simplest incantation.
 
-# Before the party leaves (or depending on what they ask): I want what Pearson promised me, if it's true. As a symbol of our new found partnership, I will give you Pearson's murderer.
+## Artifact has been shielded from divination magic and magical interference. This is one of the tricks allowing me to reside here uninterrupted all these years. It is also one of the reasons I rely on associates to find said item.
+
+# Before the party leaves (or depending on what they ask)
+
+## The Fence: I want what Pearson promised me, if it's true. 
+
+As a symbol of our new found partnership, I will give you Pearson's murderer.
 
 The Fence raises his left hand into the air, palm up. As he does so, he appears to pull an orb wrapped in silk out of thin air. He places it suspended in mid-air in front of him and unwraps the silk to reveal a glowing crystal ball, emitting a soft, pulsing light.
 
@@ -105,6 +113,13 @@ Suddenly, the light intensifies, and you feel as if you're falling through time 
 
 Through the wizard's magic, you're able to see the killer meeting with a shadowy figure, who seems to be orchestrating the murder. You hear the criminal mastermind's voice, but you're unable to see their face.
 
-The vision fades, and you're back in the wizard's study. "We have the information we need," he says, "now it's time to go."
+The vision fades, and you're back in the wizard's study. "We have the information we need," he says, as a glowing map floats in front of him. He picks the formed map out of the air and hands it to you.
 
-# As Vincent leaves: The Fence gives him a prepared letter. "We have much to discuss about that which you possess." Strange. Your contact hasn't written on any paper since you arrived.
+"now it's time to go."
+
+## As Vincent leaves: The Fence gives him a prepared letter. "We have much to discuss about that which you possess." Strange. Your contact hasn't written on any paper since you arrived.
+
+### :warning: Continuity Error?
+
+* If "The Fence" can't divine the presence of the artifact, can he really know what Vincent possesses?
+

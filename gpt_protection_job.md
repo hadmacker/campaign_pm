@@ -863,11 +863,20 @@ Charisma: 10 (+0)
 --- 
 
 HA:
-> 
+> Give me several possible names for a powerful necrotic artifact. This artifact can detect deception and motives, and doubles as a phylactery to control evil spirits
 
 ---
 
-GPT:
+GPT: Shadowheart
+Necrosphere
+Soulcleaver
+Deathbane
+The Lich's Eye
+The Corrupted Crown
+Dread Orb
+The Void Amulet
+Cursed Reliquary
+Spectral Scepter
 
 --- 
 
