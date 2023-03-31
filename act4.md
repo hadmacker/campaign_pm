@@ -1,4 +1,4 @@
-# Act 3: The Conspiracy Ends
+# Act 3: Exploring The Warehouse
 
 ---
 
