@@ -1,13 +1,13 @@
 # Conclusion
 
 
-# CONSEQUENCE: Allowing the Thugs to leave (From Act 0)
+# CONSEQUENCE: Allowing the Thugs to leave unmolested (From Act 0)
 
 * They mug and murder someone outside of Troll Skull Manner the following day.
 
 # CONSEQUENCE: Roll failures during Trap/Communication rolls against the ghosts
 
-* Anyone who fails trap/communication rolls against the Ghosts by more than 5 are pestered harder than the others. The ghosts fly around and through the individuals, caressing their items and body with a chilled touch. They will be unable to sleep with relentless night terrors every time they close their eyes for the next two nights (exhaustion), regardless of any cures attempted.
+* Anyone who fails trap/communication rolls against the Ghosts by more than 5 are pestered harder than the others. The ghosts fly around and through the individuals, caressing their items and body with a chilled touch. They will be unable to sleep with relentless night terrors every time they close their eyes for the next 1d4 nights (exhaustion), regardless of any cures attempted.
 
 ## Exhaustion as a result of paranormal activity
 

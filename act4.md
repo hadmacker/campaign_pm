@@ -71,7 +71,7 @@ Roll 5d4 for the following items inside the chest:
 
 # Evidence of a Conspiracy
 
-As the party examines the contents of the chest, they notice that there is a stack of gunpowder kegs precariously stacked in a corner of the room. The slightest misstep could cause the kegs to tumble and trigger a deadly explosion. The party will need to use their wits and agility to carefully navigate around the kegs and retrieve any valuable items without triggering a disaster.
+As the party examines the contents of the chest, they notice that there is a wagon piled high with kegs of gunpowder on a bed of hay. The slightest misstep could cause the kegs to tumble and trigger a deadly explosion. The party will need to use their wits and agility to carefully navigate around the kegs and retrieve any valuable items without triggering a disaster.
 
 ## OPTION: With the gunpowder wagon, you also see a small satchel containing additional potions.
 
@@ -79,9 +79,11 @@ As the party examines the contents of the chest, they notice that there is a sta
 
 # Introducing the Villain
 
-As the party is searching through the warehouse, they hear a loud banging sound followed by the sound of creaking hinges as the double doors to the warehouse burst open. A hulking figure enters, dressed in dark robes with symbols of fire emblazoned on them, and his hair is wild and unkempt. In his hand, he holds a small glass vial filled with a strange green liquid.
+As the party is searching through the warehouse, they hear a loud banging sound followed by the sound of creaking hinges as the double doors to the warehouse burst open. A hulking figure enters, dressed in dark robes with symbols of fire emblazoned on them, and his hair is wild and unkempt. In his hand, he holds a glass vial filled with a strange green liquid.
 
-"I have been watching you," he says, his voice low and dangerous. "You have seen too much. Now, you will pay the price."
+## Monologue 1
+
+"I have been watching you," he says, his voice low and dangerous. "I have been preparing for this for a long time," he says. "The City Watch will fall and a new order will rise in its place. And you, my dear adventurers, you have seen too much. And I will NOT allow you to interfere any longer."
 
 As he says this, you observe several henchmen running into the room behind him.
 
@@ -89,23 +91,20 @@ With a flick of his wrist, The Villain throws the vial at the ground, and a thic
 
 Roll for initiative, at disadvantage.
 
+
 # Beginning the fight
 
-As the smoke clears, the villain stands before them, a wicked smile on his face. He is holding a torch, and the warehouse around them is suddenly illuminated in a flickering orange light. The party can see stacks of gunpowder kegs, crates of weapons, and other explosives lining the walls.
-
-"You see, I have been preparing for this for a long time," he says. "The City Watch will fall, and a new order will rise in its place. And you, my dear adventurers, will not interfere any longer."
+As the smoke clears, the villain stands before them, a wicked smile on his face. He is holding a torch, and the warehouse around them is suddenly illuminated in a flickering orange light. 
 
 ## Baddies
 
 * BOSS: [Marcus Blackwood](./mob_marcusb.md)
 * [Mercenary](./mob_mercenary.md)
-* If the boss is defeated, minions will attempt to set the warehouse wagon (gunpowder) on fire. 
+* If the boss is defeated, remaining minions will attempt to set the warehouse wagon (gunpowder) on fire. 
   * _**Y'all gonna die.**_
   
 ## Minions
 
-`Cultists`: The BBEG could have a group of cultists who follow them and are willing to fight and die for their cause. These cultists could be lower-level spellcasters who can cast spells like magic missile or hold person to support the BBEG in combat. (See the Cultist stat block on p. 345 of the Monster Manual.)
-
 `Shadow Demons`: These creatures are stealthy and can teleport in and out of combat, making them difficult to pin down. They also have a ranged attack that deals necrotic damage, which could help wear down the party. (See the Shadow Demon stat block on p. 64 of the Monster Manual.)
 
 `Animated Armor`: These constructs are immune to poison and psychic damage, which could make them a good choice if the party has a lot of spellcasters. They also have a high AC, which could make them a good "meat shield" for the BBEG. (See the Animated Armor stat block on p. 19 of the Monster Manual.)
@@ -113,24 +112,9 @@ As the smoke clears, the villain stands before them, a wicked smile on his face.
 `Chain Devils`: These devils have a high AC and resistances to cold, fire, and lightning damage, which could make them a good choice if the party has a lot of damage-dealing spellcasters. They also have the ability to restrain creatures with their chains, which could help the BBEG control the battlefield. (See the Chain Devil stat block on p. 72 of the Monster Manual.)
 
 
----
+# Monologue 2
 
-
-## Minions
-
-`Cultists`: The BBEG could have a group of cultists who follow them and are willing to fight and die for their cause. These cultists could be lower-level spellcasters who can cast spells like magic missile or hold person to support the BBEG in combat. (See the Cultist stat block on p. 345 of the Monster Manual.)
-
-`Shadow Demons`: These creatures are stealthy and can teleport in and out of combat, making them difficult to pin down. They also have a ranged attack that deals necrotic damage, which could help wear down the party. (See the Shadow Demon stat block on p. 64 of the Monster Manual.)
-
-`Animated Armor`: These constructs are immune to poison and psychic damage, which could make them a good choice if the party has a lot of spellcasters. They also have a high AC, which could make them a good "meat shield" for the BBEG. (See the Animated Armor stat block on p. 19 of the Monster Manual.)
-
-`Chain Devils`: These devils have a high AC and resistances to cold, fire, and lightning damage, which could make them a good choice if the party has a lot of damage-dealing spellcasters. They also have the ability to restrain creatures with their chains, which could help the BBEG control the battlefield. (See the Chain Devil stat block on p. 72 of the Monster Manual.)
-
-
----
-
-
-"You see, I have always hated this city. Its people, its politics, its wealth, its...corruption. I was born in the slums of the Dock Ward, and I've been forced to watch as the rich and powerful of this city live in luxury while the rest of us suffer. But soon, that will all change. I will bring the city down into chaos, and rebuild it in my own image."
+"You see, I have always hated this city. Its people, its politics, its wealth, its...corruption. I was born into poverty and was forced to fight my way into the respect of society, watching the rich and powerful of this city live in luxury while the rest of us suffer. But soon, that will all change. I will bring this city down into chaos and rebuild it in my own image."
 
 
 # OPTION: Kent Fey arrives
@@ -160,7 +144,16 @@ As the dust settles, the players see a figure striding confidently through the d
 
 ## Monologue:
 
-"Pearson was a fool. I needed to know whether the rumors were true that **The Necrosphere** had resurfaced after all those years, but Pearson was a moneygrubbing fraud. I couldn't detect any magical items with him. It's best for everyone that he's no longer with us. And it's best for everyone that your journey ends here."
+"Pearson was a fool. I needed to know whether the rumors were true that **The Necrosphere** had resurfaced after all those years, but Pearson was only a thief. Even with my powerful magic, I was unable to detect any magical items with that liar. It's best for everyone that he's no longer with us. And it's best for everyone that your journey ends here."
 
 ## Fight!
 
+# Defeating the Villain
+
+As the final battle ends, the silence that follows is almost deafening. The party is left standing in the rubble of the warehouse, surrounded by the bodies of their enemies and the explosive evidence of a failed conspiracy.
+
+Slowly, the sound of approaching footsteps breaks the silence, and a figure emerges from the darkness. It's the same cleric who had rescued the party earlier, his expression somber as he surveys the scene.
+
+As the night wears on, the City Watch arrives and takes your statements as to the conspiracy that was uncovered. They are relieved and grateful for the party's success, and offer to reward them handsomely.
+
+As for the anarchist villain, his name is soon forgotten, his legacy nothing more than a cautionary tale. But the party knows that they have prevented a great evil, and they are content in the knowledge that they have made the world a safer place.

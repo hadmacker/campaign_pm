@@ -12,6 +12,9 @@
 
     None of the witnesses recall hearing or seeing anything related to Lockwood, they may come across a mention of a wealthy merchant named Lockwood who was rumored to have a hidden room in his estate where he kept his most valuable treasures.
     ```
+* If party didn't find the second letter from Valerian...
+  * As you loot the body, you discover an encyphered letter.
+  * [Letter 2](./letter2.encoded)
 * Vincent: Observes a wall panel out of place.
   * Finds a small handheld gold artifact.
     * ```
