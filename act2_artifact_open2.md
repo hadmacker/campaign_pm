@@ -1,0 +1,1 @@
+To open the lid, one must first rotate the outer ring of the artifact clockwise until a small notch aligns with a specific symbol on the artifact's surface. This symbol depicts a dragon's head with its mouth open wide. Once the outer ring is aligned, the user must then push down on the dragon's head, causing the lid to pop open.

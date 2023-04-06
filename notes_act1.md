@@ -125,7 +125,7 @@ With a newfound sense of purpose, you turn to your party members and start to ma
 --- 
 
 HA:
-> When the players arrive at the inn, they find that Pearson has already been murdered in his inn room. The room is in disarray and it's clear that there was a violent struggle. The players are immediately suspected of the murder by the inn staff and the city guard, and they must clear their names by finding the real killer.
+> When the players arrive at the inn, they find that Starhold has already been murdered in his inn room. The room is in disarray and it's clear that there was a violent struggle. The players are immediately suspected of the murder by the inn staff and the city guard, and they must clear their names by finding the real killer.
 
 Have an eyewitness observe the players in the victim's room
 
@@ -137,7 +137,7 @@ GPT: As the players try to assess the situation and come up with a plan, a commo
 
 The players exchange worried glances, realizing that they're already being accused of the murder. Before they can even try to defend themselves, a group of city guards bursts in, weapons drawn.
 
-"Hands up! You're all under arrest for the murder of Pearson!" one of the guards shouts, advancing on the players.
+"Hands up! You're all under arrest for the murder of Starhold!" one of the guards shouts, advancing on the players.
 
 As the players are handcuffed and led away to be questioned, they catch a glimpse of a shadowy figure lurking in the corner of the room. They try to point it out to the guards, but the figure has vanished without a trace.
 

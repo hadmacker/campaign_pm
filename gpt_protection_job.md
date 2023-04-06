@@ -15,19 +15,19 @@ GPT:
 Sure, I can help you create a D&D 5e campaign with film noir attributes, set in the city of Waterdeep in Winter. Here's an outline for your campaign:
 
 ## The Job Offer
-The players are hired by a private detective named Samuel Archer to protect a VIP named Howard Pearson, a wealthy businessman who is arriving in Waterdeep for a business meeting. Archer tells the players that Pearson has received several death threats and that he needs the best protection available. Pearson is staying at a luxury hotel in the city and Archer asks the players to meet him there to discuss the details of the job.
+The players are hired by a private detective named Samuel Archer to protect a VIP named Brathin Starhold, a wealthy businessman who is arriving in Waterdeep for a business meeting. Archer tells the players that Starhold has received several death threats and that he needs the best protection available. Starhold is staying at a luxury hotel in the city and Archer asks the players to meet him there to discuss the details of the job.
 
 ## The Murder
-When the players arrive at the hotel, they find that Pearson has already been murdered in his hotel room. The room is in disarray and it's clear that there was a violent struggle. The players are immediately suspected of the murder by the hotel staff and the city guard, and they must clear their names by finding the real killer.
+When the players arrive at the hotel, they find that Starhold has already been murdered in his hotel room. The room is in disarray and it's clear that there was a violent struggle. The players are immediately suspected of the murder by the hotel staff and the city guard, and they must clear their names by finding the real killer.
 
 ## The Investigation
-The players must investigate the murder by questioning witnesses, examining the crime scene, and searching for clues. They will need to use their skills in persuasion, investigation, and combat to unravel the mystery. Along the way, they will encounter a number of suspects, each with their own motives for killing Pearson. These suspects might include:
+The players must investigate the murder by questioning witnesses, examining the crime scene, and searching for clues. They will need to use their skills in persuasion, investigation, and combat to unravel the mystery. Along the way, they will encounter a number of suspects, each with their own motives for killing Starhold. These suspects might include:
 
-`The hotel staff`: The hotel staff might have had a grudge against Pearson or might have been paid off to allow the killer access to his room.
+`The hotel staff`: The hotel staff might have had a grudge against Starhold or might have been paid off to allow the killer access to his room.
 
-`Pearson's business rivals`: Pearson had many business rivals who might have wanted him out of the way.
+`Starhold's business rivals`: Starhold had many business rivals who might have wanted him out of the way.
 
-`The killer`: The killer might be someone who had a personal vendetta against Pearson or might have been hired to do the job.
+`The killer`: The killer might be someone who had a personal vendetta against Starhold or might have been hired to do the job.
 
 ## Encounters and Traps
 During their investigation, the players will encounter a number of obstacles, including traps and combat encounters. Here are three possible encounters that you could use:
@@ -52,7 +52,7 @@ GPT:
 
 Certainly! Here's an idea for a larger conspiracy that could be revealed behind the murder:
 
-As the players investigate the murder, they discover that Howard Pearson was involved in a secret business deal with a powerful and influential figure in Waterdeep's criminal underworld. The deal involved a rare and valuable magical artifact that could grant immense power to whoever possessed it. Pearson was killed because he was planning to double-cross the criminal figure and keep the artifact for himself.
+As the players investigate the murder, they discover that Brathin Starhold was involved in a secret business deal with a powerful and influential figure in Waterdeep's criminal underworld. The deal involved a rare and valuable magical artifact that could grant immense power to whoever possessed it. Starhold was killed because he was planning to double-cross the criminal figure and keep the artifact for himself.
 
 As the players delve deeper into the conspiracy, they discover that the criminal figure has connections to several powerful and wealthy individuals in Waterdeep, including some members of the city council. The criminal figure is using the artifact to gain more power and influence over the city, and is willing to do whatever it takes to keep it.
 
@@ -69,7 +69,7 @@ GPT:
 
 Certainly! Here's a way to transform the "powerful and influential figure" into a BBG with a big final confrontation:
 
-As the players investigate the conspiracy behind Howard Pearson's murder, they eventually discover that the powerful and influential figure behind the deal is actually a notorious crime lord known as "The Dragon". The Dragon is a shadowy figure who controls a vast criminal empire in Waterdeep, including smuggling rings, protection rackets, and even a secret cult dedicated to a dark and ancient deity.
+As the players investigate the conspiracy behind Brathin Starhold's murder, they eventually discover that the powerful and influential figure behind the deal is actually a notorious crime lord known as "The Dragon". The Dragon is a shadowy figure who controls a vast criminal empire in Waterdeep, including smuggling rings, protection rackets, and even a secret cult dedicated to a dark and ancient deity.
 
 As the players get closer to The Dragon, they encounter various minions and lieutenants who are fiercely loyal to him and are willing to do whatever it takes to protect their boss. The players might have to infiltrate one of The Dragon's hideouts, track down a crucial piece of information, or rescue a kidnapped ally.
 
@@ -115,35 +115,35 @@ Certainly! Here's an NPC idea for "The Fence":
 
 "The Fence" is a middleman who specializes in buying and selling stolen goods, including rare and magical items. He has a network of contacts and informants who can help him locate valuable items, and he is known to be discreet and trustworthy.
 
-In the context of the campaign, The Fence could be a contact of Howard Pearson, the victim of the murder. Pearson may have hired The Fence to locate the magical artifact that he was planning to double-cross the criminal figure with. When Pearson is killed, The Fence could become a valuable ally for the players, as he may have information about the artifact and the criminal figure behind it.
+In the context of the campaign, The Fence could be a contact of Brathin Starhold, the victim of the murder. Starhold may have hired The Fence to locate the magical artifact that he was planning to double-cross the criminal figure with. When Starhold is killed, The Fence could become a valuable ally for the players, as he may have information about the artifact and the criminal figure behind it.
 
-To incorporate The Fence into the investigation, the players could learn about him from Pearson's notes or contacts. They could then seek him out to learn more about the artifact and the criminal figure. The Fence might be initially reluctant to get involved, as he does not want to attract attention from the criminal underworld, but the players could persuade him to help them in exchange for a favor or payment.
+To incorporate The Fence into the investigation, the players could learn about him from Starhold's notes or contacts. They could then seek him out to learn more about the artifact and the criminal figure. The Fence might be initially reluctant to get involved, as he does not want to attract attention from the criminal underworld, but the players could persuade him to help them in exchange for a favor or payment.
 
 The Fence could provide the players with information about the criminal figure's location, contacts, and weaknesses. He might also have some ideas for how the players could recover the artifact without alerting the criminal figure. Alternatively, The Fence could betray the players and sell them out to the criminal figure, forcing them to go on the run and devise a new plan to stop the conspiracy.
 
 ---
 
 HA:
-> Create a "flashback" encounter between private detective named Samuel Archer and Howard Pearson and how they established a strong personal bond.
+> Create a "flashback" encounter between private detective named Samuel Archer and Brathin Starhold and how they established a strong personal bond.
 
 --- 
 GPT:
 
-Certainly! Here's a potential "flashback" encounter between Samuel Archer and Howard Pearson:
+Certainly! Here's a potential "flashback" encounter between Samuel Archer and Brathin Starhold:
 
-Samuel Archer had been a private detective for many years, and he had seen his fair share of shady characters and dangerous situations. But when he met Howard Pearson, he knew that he had found someone special.
+Samuel Archer had been a private detective for many years, and he had seen his fair share of shady characters and dangerous situations. But when he met Brathin Starhold, he knew that he had found someone special.
 
-Pearson was a smooth-talking, charismatic man with a quick wit and a sharp mind. He had a way of getting what he wanted, whether it was through charm or cunning. But he also had a strong moral code, and he never backed down from a challenge.
+Starhold was a smooth-talking, charismatic man with a quick wit and a sharp mind. He had a way of getting what he wanted, whether it was through charm or cunning. But he also had a strong moral code, and he never backed down from a challenge.
 
-Archer first met Pearson when he was hired to investigate a case of corporate espionage at Pearson's company. Pearson had suspected that one of his employees was leaking sensitive information to a competitor, and he wanted Archer to find out who it was.
+Archer first met Starhold when he was hired to investigate a case of corporate espionage at Starhold's company. Starhold had suspected that one of his employees was leaking sensitive information to a competitor, and he wanted Archer to find out who it was.
 
-As Archer delved deeper into the case, he realized that it was more complex than he had initially thought. There were multiple suspects, and the evidence was murky at best. But Pearson never lost faith in Archer, and he encouraged him to keep digging.
+As Archer delved deeper into the case, he realized that it was more complex than he had initially thought. There were multiple suspects, and the evidence was murky at best. But Starhold never lost faith in Archer, and he encouraged him to keep digging.
 
 The two men spent many long nights working together, pouring over documents and interviewing witnesses. They developed a strong bond, based on trust and mutual respect.
 
-In the end, Archer was able to solve the case and catch the culprit. Pearson was grateful, and he offered Archer a job as his personal investigator. Archer accepted, and he worked for Pearson for many years, becoming his closest confidante and friend.
+In the end, Archer was able to solve the case and catch the culprit. Starhold was grateful, and he offered Archer a job as his personal investigator. Archer accepted, and he worked for Starhold for many years, becoming his closest confidante and friend.
 
-The flashback encounter could be revealed to the players through a letter or journal entry written by Samuel Archer, or it could be recounted by a character who knew the two men well. The encounter could provide insight into the relationship between Archer and Pearson, and it could help motivate the players to solve the murder of their friend and employer.
+The flashback encounter could be revealed to the players through a letter or journal entry written by Samuel Archer, or it could be recounted by a character who knew the two men well. The encounter could provide insight into the relationship between Archer and Starhold, and it could help motivate the players to solve the murder of their friend and employer.
 
 
 ---
@@ -205,21 +205,21 @@ This story not only gives Agrippa a compelling reason to leave the group tempora
 ---
 
 HA:
-> Create a "flashback" encounter between private detective named Samuel Archer and Howard Pearson and how they established a strong personal bond while both working in the docks ward for a shipping magnate in the Middle Ages.
+> Create a "flashback" encounter between private detective named Samuel Archer and Brathin Starhold and how they established a strong personal bond while both working in the docks ward for a shipping magnate in the Middle Ages.
 
 ---
 
-As Samuel Archer and Howard Pearson worked side by side in the busy docks ward, they quickly realized they shared a common goal - to rise above their humble origins and make something of themselves. They bonded over their shared ambition and worked tirelessly to impress their employer, a wealthy shipping magnate.
+As Samuel Archer and Brathin Starhold worked side by side in the busy docks ward, they quickly realized they shared a common goal - to rise above their humble origins and make something of themselves. They bonded over their shared ambition and worked tirelessly to impress their employer, a wealthy shipping magnate.
 
 One day, while unloading a shipment of exotic goods from a far-off land, they discovered a hidden compartment in one of the crates. Inside was a rare and valuable artifact that the shipping magnate had been smuggling in, hoping to avoid paying the exorbitant taxes on imported goods.
 
-Samuel and Howard knew that the artifact would fetch a high price on the black market, but they also knew that stealing from their employer would have dire consequences. They wrestled with their conscience, unsure of what to do.
+Samuel and Brathin knew that the artifact would fetch a high price on the black market, but they also knew that stealing from their employer would have dire consequences. They wrestled with their conscience, unsure of what to do.
 
-In the end, they decided to confront the shipping magnate about the artifact. They presented their evidence and demanded that he pay the appropriate taxes and cease his smuggling activities. The shipping magnate was furious, but he also saw potential in Samuel and Howard. He offered them a deal - he would allow them to keep the artifact if they agreed to work for him directly, using their skills and ingenuity to increase his profits and expand his business empire.
+In the end, they decided to confront the shipping magnate about the artifact. They presented their evidence and demanded that he pay the appropriate taxes and cease his smuggling activities. The shipping magnate was furious, but he also saw potential in Samuel and Brathin. He offered them a deal - he would allow them to keep the artifact if they agreed to work for him directly, using their skills and ingenuity to increase his profits and expand his business empire.
 
-Samuel and Howard were hesitant at first, but the opportunity was too good to pass up. They agreed to the deal and began working closely with the shipping magnate, quickly rising through the ranks and becoming trusted advisors.
+Samuel and Brathin were hesitant at first, but the opportunity was too good to pass up. They agreed to the deal and began working closely with the shipping magnate, quickly rising through the ranks and becoming trusted advisors.
 
-Over time, Samuel and Howard became more than just colleagues - they became close friends and confidants, relying on each other to navigate the treacherous waters of the shipping industry. They never forgot their humble origins or their shared values, and they worked tirelessly to ensure that their employer's business was successful and ethical.
+Over time, Samuel and Brathin became more than just colleagues - they became close friends and confidants, relying on each other to navigate the treacherous waters of the shipping industry. They never forgot their humble origins or their shared values, and they worked tirelessly to ensure that their employer's business was successful and ethical.
 
 The artifact remained a symbol of their shared history and the difficult decisions they had made, but it also served as a reminder of their bond and the trust they had in each other.
 
@@ -700,17 +700,17 @@ To decode the letter, the players would need to use the code to replace each let
 --- 
 
 HA:
-> Remember the BBEG above? Give him a 4 paragraph monologue exposing his motive for murdering Pearson and his plan to annihilate the city of Waterdeep using the profound power of the artifact he will soon possess.
+> Remember the BBEG above? Give him a 4 paragraph monologue exposing his motive for murdering Starhold and his plan to annihilate the city of Waterdeep using the profound power of the artifact he will soon possess.
 
 ---
 
 GPT:
 
-The BBEG stands before the players, a sly grin on his face. "You have been persistent, I'll give you that. But it's time for you to know the truth. The artifact that Pearson entrusted to me was not for safekeeping, as I led him to believe. It is a powerful weapon, capable of decimating entire cities. And I plan to use it to destroy Waterdeep."
+The BBEG stands before the players, a sly grin on his face. "You have been persistent, I'll give you that. But it's time for you to know the truth. The artifact that Starhold entrusted to me was not for safekeeping, as I led him to believe. It is a powerful weapon, capable of decimating entire cities. And I plan to use it to destroy Waterdeep."
 
 "You see, I have always hated this city. Its people, its politics, its wealth. I was born in the slums of the Dock Ward, and I've been forced to watch as the rich and powerful of this city live in luxury while the rest of us suffer. But soon, that will all change. With the artifact in my possession, I will level the city to the ground, and rebuild it in my own image."
 
-"I admit, Pearson's murder was a necessary sacrifice. He was the only one who knew of the artifact's true power, and I could not risk him exposing my plan. But now, with you all here, I see an opportunity. You are powerful adventurers, and I could use your skills to help me in my cause. Join me, and together we can take down the corrupt rulers of this city and build a new Waterdeep."
+"I admit, Starhold's murder was a necessary sacrifice. He was the only one who knew of the artifact's true power, and I could not risk him exposing my plan. But now, with you all here, I see an opportunity. You are powerful adventurers, and I could use your skills to help me in my cause. Join me, and together we can take down the corrupt rulers of this city and build a new Waterdeep."
 
 "But if you refuse, well, I'm afraid I'll have to eliminate you as well. You know too much. And trust me, I have no qualms about shedding more blood to achieve my goals. The choice is yours, adventurers. Join me, or die."
 
@@ -733,25 +733,25 @@ Aside: Above is not right. Have tried numerous times. Moving on.
 --- 
 
 HA: 
-> What type of business might Howard Pearson be involved with in Waterdeep?
+> What type of business might Brathin Starhold be involved with in Waterdeep?
 
 ---
 
 GPT:
 
-Howard Pearson could be involved in a variety of businesses in Waterdeep. Some possible options could include:
+Brathin Starhold could be involved in a variety of businesses in Waterdeep. Some possible options could include:
 
-Shipping: Given Pearson's background as a dock worker, he may have worked his way up to owning his own shipping company or being a partner in a larger one.
+Shipping: Given Starhold's background as a dock worker, he may have worked his way up to owning his own shipping company or being a partner in a larger one.
 
-Warehousing: Pearson may have owned or managed a warehouse that stored goods being transported through Waterdeep.
+Warehousing: Starhold may have owned or managed a warehouse that stored goods being transported through Waterdeep.
 
-Trade: Pearson could have been a trader, buying and selling goods from different parts of the world.
+Trade: Starhold could have been a trader, buying and selling goods from different parts of the world.
 
-Inn or Tavern: Perhaps Pearson was a successful innkeeper or tavern owner, providing food, drink, and lodging to travelers passing through Waterdeep.
+Inn or Tavern: Perhaps Starhold was a successful innkeeper or tavern owner, providing food, drink, and lodging to travelers passing through Waterdeep.
 
-Import/export: If Pearson had connections in other cities or countries, he may have been involved in importing and exporting goods.
+Import/export: If Starhold had connections in other cities or countries, he may have been involved in importing and exporting goods.
 
-Ultimately, the type of business Pearson was involved in can be tailored to fit the needs of the story and the campaign.
+Ultimately, the type of business Starhold was involved in can be tailored to fit the needs of the story and the campaign.
 
 --- 
 

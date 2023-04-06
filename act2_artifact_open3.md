@@ -1,0 +1,1 @@
+The puzzle is not just about the correct alignment of the outer ring and the symbol, but also requires a bit of force to push down on the dragon's head to unlock the lid. Without the forceful push, the lid will not open and the contents inside will remain a mystery.

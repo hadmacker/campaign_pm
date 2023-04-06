@@ -5,7 +5,7 @@
 * As the group arrives, turns into a murder
 * Optional: Assassin fight
 * Investigation into murder
-* Leads party to a nearby landlord's warehouse
-* It's a trap. Set for the individual that's now dead.
-* Party escapes, finds the contact, directed to the real location.
+* Leads party to a nearby abandoned building
+* It's a trap. Set for the VIP that's now dead.
+* Party connects with the contact to sell the item.
 * At real location, the team is caught investigating as the crime lord is waiting.

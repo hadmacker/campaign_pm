@@ -1,4 +1,4 @@
-# Act 3: Exploring The Lumber Mill
+# Act 4: Exploring The Lumber Mill
 
 ---
 
@@ -6,7 +6,7 @@
 
 As the party emerges from the ruins of the burned-out mansion, the sky is painted in hues of orange and red as the sun sets behind the rolling hills. The air is thick with the scent of smoke and ash. The path ahead of the party is dimly lit, illuminated only by the soft glow of the magical map in their hands.
 
-As they follow the map's trail, they soon arrive at an abandoned lumber mill. The once-bustling mill now stands silent, the wooden structure weathered and worn by years of neglect. The mill's waterwheel, which once turned with great force, now creaks and groans as it slowly rotates with the gentle flow of the nearby river.
+As they follow the map's trail, they soon arrive at the abandoned lumber mill. The once-bustling mill now stands silent, the wooden structure weathered and worn by years of neglect. The mill's waterwheel, which once turned with great force, now creaks and groans as it slowly rotates with the gentle flow of the nearby river.
 
 The door to the mill is ajar, and the party can hear the distant sound of creaking floorboards, scampering rodents, and rustling leaves.
 
@@ -79,7 +79,7 @@ As the party examines the contents of the chest, they notice that there is a wag
 
 # Introducing the Villain
 
-As the party is searching through the warehouse, they hear a loud banging sound followed by the sound of creaking hinges as the double doors to the warehouse burst open. A hulking figure enters, dressed in dark robes with symbols of fire emblazoned on them, and his hair is wild and unkempt. In his hand, he holds a glass vial filled with a strange green liquid.
+As the party is searching through the mill room, they hear a loud banging sound followed by the sound of creaking hinges as the double doors to the mill room burst open. A hulking figure enters, dressed in dark robes with symbols of fire emblazoned on them, and his hair is wild and unkempt. In his hand, he holds a glass vial filled with a strange green liquid.
 
 ## Monologue 1
 
@@ -94,13 +94,13 @@ Roll for initiative, at disadvantage.
 
 # Beginning the fight
 
-As the smoke clears, the villain stands before them, a wicked smile on his face. He is holding a torch, and the warehouse around them is suddenly illuminated in a flickering orange light. 
+As the smoke clears, the villain stands before them, a wicked smile on his face. He is holding a torch, and the mill room around them is suddenly illuminated in a flickering orange light. 
 
 ## Baddies
 
 * BOSS: [Marcus Blackwood](./mob_marcusb.md)
 * [Mercenary](./mob_mercenary.md)
-* If the boss is defeated, remaining minions will attempt to set the warehouse wagon (gunpowder) on fire. 
+* If the boss is defeated, remaining minions will attempt to set the mill room wagon (gunpowder) on fire. 
   * _**Y'all gonna die.**_
   
 ## Minions
@@ -144,13 +144,13 @@ As the dust settles, the players see a figure striding confidently through the d
 
 ## Monologue:
 
-"Pearson was a fool. I needed to know whether the rumors were true that **The Necrosphere** had resurfaced after all those years, but Pearson was only a thief. Even with my powerful magic, I was unable to detect any magical items with that liar. It's best for everyone that he's no longer with us. And it's best for everyone that your journey ends here."
+"Starhold was a fool. I needed to know whether the rumors were true that **The Necrosphere** had resurfaced after all those years, but Starhold was only a thief. Even with my powerful magic, I was unable to detect any magical items with that liar. It's best for everyone that he's no longer with us. And it's best for everyone that your journey ends here."
 
 ## Fight!
 
 # Defeating the Villain
 
-As the final battle ends, the silence that follows is almost deafening. The party is left standing in the rubble of the warehouse, surrounded by the bodies of their enemies and the explosive evidence of a failed conspiracy.
+As the final battle ends, the silence that follows is almost deafening. The party is left standing in the rubble of the mill room, surrounded by the bodies of their enemies and the explosive evidence of a failed conspiracy.
 
 Slowly, the sound of approaching footsteps breaks the silence, and a figure emerges from the darkness. It's the same cleric who had rescued the party earlier, his expression somber as he surveys the scene.
 

@@ -12,14 +12,14 @@
 * [Act 4](./act4.md)
 * [Epilogue](./epilogue.md)
 
+## Raw Notes
+
+* [GPT Conversation: Act 0](./notes_act0.md)
+* [GPT Conversation: Act 1](./notes_act1.md)
+* [GPT Conversation: Act 2](./notes_act2.md)
+* [GPT Conversation: Act 3](./notes_act3.md)
+* [GPT Conversation: Act 4 & Epilogue](./notes_Act4.md)
+
+* [Initial ideation and brainstorming with ChatGPT](./gpt_protection_job.md)
 * [Plot Summary](./plot.md)
 * [Notes](./notes.md)
-* [Initial ideation and brainstorming with ChatGPT](./gpt_protection_job.md)
-* Assets
-  * [Letter revealing Warehouse Location](./letter.encoded) [Decoded](./letter.decoded) [Cipher Key](./letter.key)
-  * [RR](./rr.encoded) [Decoded](./rr.decoded) [Cipher Key](./rr.key)
-* Campaign
-  * [Characters](./characters.md)
-  * [Act 1: The Job](./act1.md)
-  * [Act 2: The Investigation](./act2.md)
-  * [Act 3: The Kingpin](./act3.md)
