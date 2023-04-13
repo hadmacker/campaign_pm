@@ -30,17 +30,13 @@ Vincent knows why Brathin Starhold is really in trouble.
 
 # From Troll Skull Manor to Starhold's Inn
 
-```
 As the sun begins to set, your party steps out of the grand Troll Skull Manor, the once-dilapidated building now fully restored to its former glory. The streets of Waterdeep are alive with activity as merchants pack up their stalls and locals hurry home to their families. The dim light of dusk casts eerie shadows across the winding alleys and cobblestone streets.
-```
 
 ## Witnesses to a mugging
 
-```
 As you turn the corner, you come across a small group of thugs surrounding a lone victim. The victim is backed up against a wall, their face contorted with fear and panic as the thugs advance on them.
 
 The four thugs are rough-looking and menacing, each one towering over the victim. They wear dark clothing and have a fierce look in their eyes, as if they're eager for a fight. From the shadows, you can still see that one of them brandishes a rusty knife, while another grips a length of chain.
-```
 
 ### What does the party do?
 
@@ -56,7 +52,6 @@ The four thugs are rough-looking and menacing, each one towering over the victim
 
 * Remember, one thug has a rusty knife, another a length of chain. Another thug has a mace. The last one is a high level rogue.
 
-```
 As the thugs flee down the alleyway, your party springs into action. You rush to the aid of the victim, who is lying on the ground, dazed and disoriented. You help them to their feet and assess their injuries. Thankfully, they're mostly unharmed, aside from a few bruises and scrapes.
 
 With the victim safe, your attention turns to the fleeing thugs. Your party gives chase, moving quickly down the narrow alley. The sound of your footsteps echoes off the old stone walls as you close in on the fleeing criminals.
@@ -67,14 +62,11 @@ Despite the odds, your party emerges victorious. The thugs lay defeated on the g
 
 As the adrenaline wears off, you realize that you've just saved a life and brought justice to those who would prey on the weak. Your party shares a moment of camaraderie, proud of what you've accomplished together. The victim thanks you, grateful for your intervention, and you continue on your way through the city, ready for whatever challenges lie ahead.
 
-```
 
 #### DECISION: Leave the scene
 
-```
 The thugs advance on the victim, taunting and jeering as they close in. The victim tries to back away, but there's nowhere to go. The air is thick with tension as the thugs prepare to strike.
 
 Suddenly, they lunge forward, each one grabbing for the victim's belongings. The victim struggles, but the thugs overpower them easily. They snatch the victim's coin purse and any other valuables they can find, then make a quick escape down the nearest alleyway.
 
 As the victim slumps to the ground, you can't help but feel a sense of anger and disgust at the thugs' cowardly behavior. The streets of the city are dangerous at the best of times, but encounters like this remind you that there are those who will stop at nothing to get what they want.
-```

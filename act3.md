@@ -8,7 +8,6 @@
 
 # Entering Lockwood
 
-```
 As the players approach Lockwood, they can see that the once-grand residence has been heavily burned and is now in ruins. The exterior walls are blackened and crumbling, and the roof has collapsed in several places. Weeds and vines have grown up around the building, and it looks like it has been abandoned for many years.
 
 As the players step inside the burned out building, they are immediately struck by an eerie and complete silence. There are no sounds of animals or birds, and the air is still and musty. The only light comes from small cracks in the walls and ceiling, and it is barely enough to see by.
@@ -18,7 +17,6 @@ A single hallway stretches out before them, seemingly endless, no doors. The wal
 After what seems like an eternity of walking, the players suddenly find themselves in a single room. The room is small and cramped, with no windows and a low ceiling. The walls are covered in grime and soot, and there is a musty smell in the air. Everything you touch is covered in soot and ash.
 
 As the players begin to explore the room, they suddenly hear a loud click. They turn around to see that the door has slammed shut, and they are now trapped in the room.
-```
 
 
 # Investigating the room

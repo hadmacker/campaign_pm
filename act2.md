@@ -7,9 +7,7 @@
 
 * Inspecting the body (or the room if empty) reveals a torn piece of paper.
   * Inspecting the paper:
-    ```
-    As the players search the murder scene, they notice a piece of paper on the floor near the bed. It appears to have been torn from a book or journal, and there is a single word written on it in what looks like blood: "Lockwood"
-    ```
+    > As the players search the murder scene, they notice a piece of paper on the floor near the bed. It appears to have been torn from a book or journal, and there is a single word written on it in what looks like blood: "Lockwood"
 * If party didn't find the second letter from Valerian...
   * As you loot the body (or the room), you discover an encyphered letter.
   * [Letter 2](./letter2.encoded)
